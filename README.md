@@ -1,5 +1,5 @@
 # GitHub-repositories-search
-React app to search Github repositories
+React app for searching Github repositories
 
 ## Installation
 
@@ -15,7 +15,7 @@ and run
 
 #### `npm start`
 
-Runs the app in the development mode.<br>
+Run the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 If you have any doubts please feel free to let me know or make a code review with me.
